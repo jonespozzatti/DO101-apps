@@ -1,0 +1,24 @@
+{
+  "name": "do101-apps",
+  "version": "1.0.0",
+  "description": "Apps for the DO101 course.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonespozzatti/DO101-apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonespozzatti/DO101-apps/issues"
+  },
+  "homepage": "https://github.com/jonespozzatti/DO101-apps#readme",
+  "keywords": []
+}
